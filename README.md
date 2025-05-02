@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jbrinkmann-sc
+# 👋 Hi, I’m @jbrinkmann-sc
 
-<!---
-jbrinkmann-sc/jbrinkmann-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 Software Development Architect | Full Stack Engineer
+
+I specialize in scalable platforms, CI/CD automation, and full stack architecture.
